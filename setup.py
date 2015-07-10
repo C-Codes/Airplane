@@ -14,12 +14,12 @@ OPTIONS = {
     },
     'packages': ['rumps'],
  }
-VERSION='0.1'
+VERSION='0.1(1)'
 
 setup(
     name='airplane',
     version=VERSION,
-    description='A little statusbar for Amazon Cloud Drive (http://cloud.amazon.com) on OS X written in Python.',
+    description='A little statusbar for to allow switching into an airplane mode under OS X written in Python.',
     license='MIT',
     author='Christoph Russ',
     author_email='chruss@gmx.de',

@@ -9,7 +9,7 @@
 
 [![Join the chat at https://gitter.im/C-Codes/airplane](https://img.shields.io/badge/GITTER-join%20chat-brightgreen.svg)](https://gitter.im/C-Codes/airplane?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-A little statusbar for to allow switching into an airplaine mode under OS X written in Python.
+A little statusbar for to allow switching into an airplane mode under OS X written in Python.
 
 # What to do?
 To compile this python app, please use `py2app`.
