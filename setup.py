@@ -14,7 +14,7 @@ OPTIONS = {
     },
     'packages': ['rumps'],
  }
-VERSION='0.1(1)'
+VERSION='0.1.1'
 
 setup(
     name='airplane',
